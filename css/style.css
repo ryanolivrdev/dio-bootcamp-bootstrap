@@ -1,0 +1,43 @@
+body{
+  font: 20px arial, sans-serif;
+
+}
+.navbar{
+  background: #e5e5e5;
+}
+
+nav > a > img {
+  width: 80px;
+  height: 80px;
+}
+
+section{
+  background: #000000;
+  color: white;
+  padding-top: 90px;
+  padding-bottom: 10px;
+  
+}
+
+.margin{
+  padding-bottom: 30px;
+}
+
+
+section > div > img {
+  width: 400px;
+  height: 400px;
+
+}
+
+.col-lg-6{
+  margin-bottom: 15px;
+
+}
+
+.bg-footer{
+  background: #121214;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 2px;
+}
